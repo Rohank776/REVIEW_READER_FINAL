@@ -1,0 +1,201 @@
+review_id,date,rating,text,label
+1,2026-11-02,4,The new layout is confusing.,design_ui
+2,2026-11-07,2,"Very slow to open, takes almost a minute.",slow_performance
+3,2026-11-02,2,"Way too many ads, one after every click.",ads
+4,2026-11-06,2,Loading takes forever on my phone.,slow_performance
+5,2026-11-07,4,The new layout is confusing.,design_ui
+6,2026-11-04,2,The subscription price doubled this month.,price
+7,2026-11-04,4,The new layout is confusing.,design_ui
+8,2026-11-08,3,"Very slow to open, takes almost a minute.",slow_performance
+9,2026-11-02,2,My account was deleted for no reason.,login_account
+10,2026-11-08,1,The help desk just sends the same copy-paste answer.,support
+11,2026-11-02,3,"Way too many ads, one after every click.",ads
+12,2026-11-08,3,I paid to remove ads and still see them.,ads
+13,2026-11-02,2,Loading takes forever on my phone.,slow_performance
+14,2026-11-02,4,"Not expensive at all, great value for money.",price
+15,2026-11-04,2,My account was deleted for no reason.,login_account
+16,2026-11-04,1,My account was deleted for no reason.,login_account
+17,2026-11-07,3,The design looks nice but the button is too small.,design_ui
+18,2026-11-06,1,Customer service never answered my email.,support
+19,2026-11-04,2,I paid to remove ads and still see them.,ads
+20,2026-11-08,2,The subscription price doubled this month.,price
+21,2026-11-08,5,"Simple and useful, highly recommend.",no_complaint
+22,2026-11-03,3,Loading takes forever on my phone.,slow_performance
+23,2026-11-05,4,The new layout is confusing.,design_ui
+24,2026-11-03,3,Scrolling is laggy and the app feels slow.,slow_performance
+25,2026-11-05,5,"Great app, does exactly what I need.",no_complaint
+26,2026-11-03,5,"Love this app, use it every day!",no_complaint
+27,2026-11-08,4,"Great app, does exactly what I need.",no_complaint
+28,2026-11-08,2,The help desk just sends the same copy-paste answer.,support
+29,2026-11-05,2,"The save button is broken, nothing happens.",crash_bug
+30,2026-11-06,2,"Very slow to open, takes almost a minute.",slow_performance
+31,2026-11-06,4,The design looks nice but the button is too small.,design_ui
+32,2026-11-04,3,The subscription price doubled this month.,price
+33,2026-11-07,3,The subscription price doubled this month.,price
+34,2026-11-02,3,I paid to remove ads and still see them.,ads
+35,2026-11-03,2,A popup ad covers the whole screen.,ads
+36,2026-11-06,4,I read the news on it every morning.,no_complaint
+37,2026-11-02,2,They charged me twice and I want a refund.,price
+38,2026-11-08,5,"Great app, does exactly what I need.",no_complaint
+39,2026-11-06,1,The app crashes every time I open the camera.,crash_bug
+40,2026-11-08,4,"Not expensive at all, great value for money.",price
+41,2026-11-03,2,I paid to remove ads and still see them.,ads
+42,2026-11-06,2,A popup ad covers the whole screen.,ads
+43,2026-11-06,3,"Way too many ads, one after every click.",ads
+44,2026-11-08,4,The download was quick and setup was easy.,no_complaint
+45,2026-11-07,3,Nice app but the monthly cost is too high.,price
+46,2026-11-05,4,"Great app, does exactly what I need.",no_complaint
+47,2026-11-04,2,Loading takes forever on my phone.,slow_performance
+48,2026-11-02,2,I paid to remove ads and still see them.,ads
+49,2026-11-03,1,Customer service never answered my email.,support
+50,2026-11-02,4,"Five stars, works perfectly.",no_complaint
+51,2026-11-10,3,The design looks nice but the button is too small.,design_ui
+52,2026-11-13,5,"Great app, does exactly what I need.",no_complaint
+53,2026-11-15,5,"Great app, does exactly what I need.",no_complaint
+54,2026-11-14,2,My account was deleted for no reason.,login_account
+55,2026-11-12,2,Too expensive for what it does.,price
+56,2026-11-14,2,The app crashes every time I open the camera.,crash_bug
+57,2026-11-10,3,Loading takes forever on my phone.,slow_performance
+58,2026-11-11,3,The subscription price doubled this month.,price
+59,2026-11-09,5,"Not expensive at all, great value for money.",price
+60,2026-11-13,4,"Love this app, use it every day!",no_complaint
+61,2026-11-13,1,Customer service never answered my email.,support
+62,2026-11-15,4,"Great app, does exactly what I need.",no_complaint
+63,2026-11-12,2,Nice app but the monthly cost is too high.,price
+64,2026-11-10,5,"Love this app, use it every day!",no_complaint
+65,2026-11-11,5,"Five stars, works perfectly.",no_complaint
+66,2026-11-14,3,The subscription price doubled this month.,price
+67,2026-11-10,1,"I cannot log in anymore, it says wrong password.",login_account
+68,2026-11-09,3,The design looks nice but the button is too small.,design_ui
+69,2026-11-15,2,"Way too many ads, one after every click.",ads
+70,2026-11-09,4,"Love this app, use it every day!",no_complaint
+71,2026-11-14,1,"Wrote to support three times, no reply.",support
+72,2026-11-13,1,"I cannot log in anymore, it says wrong password.",login_account
+73,2026-11-12,2,"Wrote to support three times, no reply.",support
+74,2026-11-14,2,Password reset email never arrives.,login_account
+75,2026-11-10,3,Scrolling is laggy and the app feels slow.,slow_performance
+76,2026-11-15,2,Too expensive for what it does.,price
+77,2026-11-13,2,Too expensive for what it does.,price
+78,2026-11-13,3,"Way too many ads, one after every click.",ads
+79,2026-11-09,4,"Five stars, works perfectly.",no_complaint
+80,2026-11-12,3,"Very slow to open, takes almost a minute.",slow_performance
+81,2026-11-13,4,The design looks nice but the button is too small.,design_ui
+82,2026-11-10,2,"I cannot log in anymore, it says wrong password.",login_account
+83,2026-11-14,4,"Five stars, works perfectly.",no_complaint
+84,2026-11-10,3,Loading takes forever on my phone.,slow_performance
+85,2026-11-15,4,The design looks nice but the button is too small.,design_ui
+86,2026-11-15,2,"Way too many ads, one after every click.",ads
+87,2026-11-15,2,Customer service never answered my email.,support
+88,2026-11-15,1,"Bad update, the app crashed three times today.",crash_bug
+89,2026-11-10,5,I read the news on it every morning.,no_complaint
+90,2026-11-13,3,The new layout is confusing.,design_ui
+91,2026-11-14,1,"The save button is broken, nothing happens.",crash_bug
+92,2026-11-11,1,"So many bugs after the update, please fix.",crash_bug
+93,2026-11-11,2,"I cannot log in anymore, it says wrong password.",login_account
+94,2026-11-10,4,The download was quick and setup was easy.,no_complaint
+95,2026-11-15,2,Password reset email never arrives.,login_account
+96,2026-11-10,4,"Not expensive at all, great value for money.",price
+97,2026-11-12,4,"Great app, does exactly what I need.",no_complaint
+98,2026-11-11,4,The design looks nice but the button is too small.,design_ui
+99,2026-11-15,4,"Five stars, works perfectly.",no_complaint
+100,2026-11-14,1,Sign in with Google does not work.,login_account
+101,2026-11-22,5,"Great app, does exactly what I need.",no_complaint
+102,2026-11-19,2,Got an error message and lost all my notes.,crash_bug
+103,2026-11-22,3,The new layout is confusing.,design_ui
+104,2026-11-17,2,Got an error message and lost all my notes.,crash_bug
+105,2026-11-16,2,Got an error message and lost all my notes.,crash_bug
+106,2026-11-19,3,Too expensive for what it does.,price
+107,2026-11-18,1,"The save button is broken, nothing happens.",crash_bug
+108,2026-11-18,4,"Love this app, use it every day!",no_complaint
+109,2026-11-18,3,Nice app but the monthly cost is too high.,price
+110,2026-11-20,2,Nice app but the monthly cost is too high.,price
+111,2026-11-17,5,"Love this app, use it every day!",no_complaint
+112,2026-11-16,2,A popup ad covers the whole screen.,ads
+113,2026-11-21,3,It drains my battery in two hours.,slow_performance
+114,2026-11-16,3,I paid to remove ads and still see them.,ads
+115,2026-11-19,2,"So many bugs after the update, please fix.",crash_bug
+116,2026-11-20,2,"Way too many ads, one after every click.",ads
+117,2026-11-19,1,My account was deleted for no reason.,login_account
+118,2026-11-22,1,My account was deleted for no reason.,login_account
+119,2026-11-19,2,"So many bugs after the update, please fix.",crash_bug
+120,2026-11-21,2,Scrolling is laggy and the app feels slow.,slow_performance
+121,2026-11-22,1,The help desk just sends the same copy-paste answer.,support
+122,2026-11-20,2,The app crashes every time I open the camera.,crash_bug
+123,2026-11-22,3,The design looks nice but the button is too small.,design_ui
+124,2026-11-22,1,Since the last update it keeps freezing on the home screen.,crash_bug
+125,2026-11-17,2,"The save button is broken, nothing happens.",crash_bug
+126,2026-11-16,5,"Simple and useful, highly recommend.",no_complaint
+127,2026-11-20,4,The download was quick and setup was easy.,no_complaint
+128,2026-11-19,3,"Way too many ads, one after every click.",ads
+129,2026-11-21,1,The app crashes every time I open the camera.,crash_bug
+130,2026-11-17,1,The help desk just sends the same copy-paste answer.,support
+131,2026-11-16,2,"Very slow to open, takes almost a minute.",slow_performance
+132,2026-11-22,3,It drains my battery in two hours.,slow_performance
+133,2026-11-19,5,"Not expensive at all, great value for money.",price
+134,2026-11-19,4,The download was quick and setup was easy.,no_complaint
+135,2026-11-19,5,"Not expensive at all, great value for money.",price
+136,2026-11-21,2,"The save button is broken, nothing happens.",crash_bug
+137,2026-11-17,3,Scrolling is laggy and the app feels slow.,slow_performance
+138,2026-11-18,1,Got an error message and lost all my notes.,crash_bug
+139,2026-11-20,1,Since the last update it keeps freezing on the home screen.,crash_bug
+140,2026-11-19,1,"Bad update, the app crashed three times today.",crash_bug
+141,2026-11-19,2,Got an error message and lost all my notes.,crash_bug
+142,2026-11-19,2,The subscription price doubled this month.,price
+143,2026-11-19,3,The design looks nice but the button is too small.,design_ui
+144,2026-11-16,2,My account was deleted for no reason.,login_account
+145,2026-11-22,2,The help desk just sends the same copy-paste answer.,support
+146,2026-11-20,1,"Wrote to support three times, no reply.",support
+147,2026-11-19,2,The app crashes every time I open the camera.,crash_bug
+148,2026-11-21,2,Password reset email never arrives.,login_account
+149,2026-11-17,3,Settings are hard to find in the menu.,design_ui
+150,2026-11-21,2,Too expensive for what it does.,price
+151,2026-11-24,2,Customer service never answered my email.,support
+152,2026-11-26,2,Since the last update it keeps freezing on the home screen.,crash_bug
+153,2026-11-25,3,They charged me twice and I want a refund.,price
+154,2026-11-29,4,Settings are hard to find in the menu.,design_ui
+155,2026-11-26,4,The download was quick and setup was easy.,no_complaint
+156,2026-11-25,2,I paid to remove ads and still see them.,ads
+157,2026-11-28,1,The app crashes every time I open the camera.,crash_bug
+158,2026-11-24,4,I read the news on it every morning.,no_complaint
+159,2026-11-24,2,"Bad update, the app crashed three times today.",crash_bug
+160,2026-11-24,2,"Bad update, the app crashed three times today.",crash_bug
+161,2026-11-25,1,"I cannot log in anymore, it says wrong password.",login_account
+162,2026-11-24,4,The new layout is confusing.,design_ui
+163,2026-11-25,2,"Wrote to support three times, no reply.",support
+164,2026-11-24,4,I read the news on it every morning.,no_complaint
+165,2026-11-28,1,Customer service never answered my email.,support
+166,2026-11-25,1,The help desk just sends the same copy-paste answer.,support
+167,2026-11-25,5,The download was quick and setup was easy.,no_complaint
+168,2026-11-27,3,Too expensive for what it does.,price
+169,2026-11-29,5,"Love this app, use it every day!",no_complaint
+170,2026-11-25,3,The subscription price doubled this month.,price
+171,2026-11-28,3,Nice app but the monthly cost is too high.,price
+172,2026-11-29,3,They charged me twice and I want a refund.,price
+173,2026-11-29,4,"Five stars, works perfectly.",no_complaint
+174,2026-11-24,5,I read the news on it every morning.,no_complaint
+175,2026-11-26,2,Customer service never answered my email.,support
+176,2026-11-25,2,A popup ad covers the whole screen.,ads
+177,2026-11-29,2,My account was deleted for no reason.,login_account
+178,2026-11-27,3,"Very slow to open, takes almost a minute.",slow_performance
+179,2026-11-24,2,"Way too many ads, one after every click.",ads
+180,2026-11-26,1,The help desk just sends the same copy-paste answer.,support
+181,2026-11-28,3,Nice app but the monthly cost is too high.,price
+182,2026-11-23,5,"Great app, does exactly what I need.",no_complaint
+183,2026-11-24,3,They charged me twice and I want a refund.,price
+184,2026-11-27,3,Nice app but the monthly cost is too high.,price
+185,2026-11-27,5,"Five stars, works perfectly.",no_complaint
+186,2026-11-25,2,"Wrote to support three times, no reply.",support
+187,2026-11-28,1,My account was deleted for no reason.,login_account
+188,2026-11-27,1,Since the last update it keeps freezing on the home screen.,crash_bug
+189,2026-11-26,2,My account was deleted for no reason.,login_account
+190,2026-11-29,4,"Five stars, works perfectly.",no_complaint
+191,2026-11-24,2,"I cannot log in anymore, it says wrong password.",login_account
+192,2026-11-24,2,Customer service never answered my email.,support
+193,2026-11-27,5,The download was quick and setup was easy.,no_complaint
+194,2026-11-28,5,"Love this app, use it every day!",no_complaint
+195,2026-11-27,5,"Simple and useful, highly recommend.",no_complaint
+196,2026-11-25,2,"Way too many ads, one after every click.",ads
+197,2026-11-29,2,"I cannot log in anymore, it says wrong password.",login_account
+198,2026-11-26,5,"Love this app, use it every day!",no_complaint
+199,2026-11-28,1,Customer service never answered my email.,support
+200,2026-11-27,2,The app crashes every time I open the camera.,crash_bug

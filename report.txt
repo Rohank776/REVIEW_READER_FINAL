@@ -1,0 +1,22 @@
+REVIEW READER - top 3 complaints per week
+Reviews read: 200
+
+2026-W45
+  1. ads: 10
+  2. slow_performance: 8
+  3. price: 8
+
+2026-W46
+  1. login_account: 8
+  2. price: 8
+  3. design_ui: 6
+
+2026-W47
+  1. crash_bug: 16
+  2. price: 7
+  3. slow_performance: 5
+
+2026-W48
+  1. support: 9
+  2. price: 8
+  3. crash_bug: 6

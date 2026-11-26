@@ -1,0 +1,201 @@
+review_id,date,rating,text
+1,2026-11-02,4,The new layout is confusing.
+2,2026-11-07,2,"Very slow to open, takes almost a minute."
+3,2026-11-02,2,"Way too many ads, one after every click."
+4,2026-11-06,2,Loading takes forever on my phone.
+5,2026-11-07,4,The new layout is confusing.
+6,2026-11-04,2,The subscription price doubled this month.
+7,2026-11-04,4,The new layout is confusing.
+8,2026-11-08,3,"Very slow to open, takes almost a minute."
+9,2026-11-02,2,My account was deleted for no reason.
+10,2026-11-08,1,The help desk just sends the same copy-paste answer.
+11,2026-11-02,3,"Way too many ads, one after every click."
+12,2026-11-08,3,I paid to remove ads and still see them.
+13,2026-11-02,2,Loading takes forever on my phone.
+14,2026-11-02,4,"Not expensive at all, great value for money."
+15,2026-11-04,2,My account was deleted for no reason.
+16,2026-11-04,1,My account was deleted for no reason.
+17,2026-11-07,3,The design looks nice but the button is too small.
+18,2026-11-06,1,Customer service never answered my email.
+19,2026-11-04,2,I paid to remove ads and still see them.
+20,2026-11-08,2,The subscription price doubled this month.
+21,2026-11-08,5,"Simple and useful, highly recommend."
+22,2026-11-03,3,Loading takes forever on my phone.
+23,2026-11-05,4,The new layout is confusing.
+24,2026-11-03,3,Scrolling is laggy and the app feels slow.
+25,2026-11-05,5,"Great app, does exactly what I need."
+26,2026-11-03,5,"Love this app, use it every day!"
+27,2026-11-08,4,"Great app, does exactly what I need."
+28,2026-11-08,2,The help desk just sends the same copy-paste answer.
+29,2026-11-05,2,"The save button is broken, nothing happens."
+30,2026-11-06,2,"Very slow to open, takes almost a minute."
+31,2026-11-06,4,The design looks nice but the button is too small.
+32,2026-11-04,3,The subscription price doubled this month.
+33,2026-11-07,3,The subscription price doubled this month.
+34,2026-11-02,3,I paid to remove ads and still see them.
+35,2026-11-03,2,A popup ad covers the whole screen.
+36,2026-11-06,4,I read the news on it every morning.
+37,2026-11-02,2,They charged me twice and I want a refund.
+38,2026-11-08,5,"Great app, does exactly what I need."
+39,2026-11-06,1,The app crashes every time I open the camera.
+40,2026-11-08,4,"Not expensive at all, great value for money."
+41,2026-11-03,2,I paid to remove ads and still see them.
+42,2026-11-06,2,A popup ad covers the whole screen.
+43,2026-11-06,3,"Way too many ads, one after every click."
+44,2026-11-08,4,The download was quick and setup was easy.
+45,2026-11-07,3,Nice app but the monthly cost is too high.
+46,2026-11-05,4,"Great app, does exactly what I need."
+47,2026-11-04,2,Loading takes forever on my phone.
+48,2026-11-02,2,I paid to remove ads and still see them.
+49,2026-11-03,1,Customer service never answered my email.
+50,2026-11-02,4,"Five stars, works perfectly."
+51,2026-11-10,3,The design looks nice but the button is too small.
+52,2026-11-13,5,"Great app, does exactly what I need."
+53,2026-11-15,5,"Great app, does exactly what I need."
+54,2026-11-14,2,My account was deleted for no reason.
+55,2026-11-12,2,Too expensive for what it does.
+56,2026-11-14,2,The app crashes every time I open the camera.
+57,2026-11-10,3,Loading takes forever on my phone.
+58,2026-11-11,3,The subscription price doubled this month.
+59,2026-11-09,5,"Not expensive at all, great value for money."
+60,2026-11-13,4,"Love this app, use it every day!"
+61,2026-11-13,1,Customer service never answered my email.
+62,2026-11-15,4,"Great app, does exactly what I need."
+63,2026-11-12,2,Nice app but the monthly cost is too high.
+64,2026-11-10,5,"Love this app, use it every day!"
+65,2026-11-11,5,"Five stars, works perfectly."
+66,2026-11-14,3,The subscription price doubled this month.
+67,2026-11-10,1,"I cannot log in anymore, it says wrong password."
+68,2026-11-09,3,The design looks nice but the button is too small.
+69,2026-11-15,2,"Way too many ads, one after every click."
+70,2026-11-09,4,"Love this app, use it every day!"
+71,2026-11-14,1,"Wrote to support three times, no reply."
+72,2026-11-13,1,"I cannot log in anymore, it says wrong password."
+73,2026-11-12,2,"Wrote to support three times, no reply."
+74,2026-11-14,2,Password reset email never arrives.
+75,2026-11-10,3,Scrolling is laggy and the app feels slow.
+76,2026-11-15,2,Too expensive for what it does.
+77,2026-11-13,2,Too expensive for what it does.
+78,2026-11-13,3,"Way too many ads, one after every click."
+79,2026-11-09,4,"Five stars, works perfectly."
+80,2026-11-12,3,"Very slow to open, takes almost a minute."
+81,2026-11-13,4,The design looks nice but the button is too small.
+82,2026-11-10,2,"I cannot log in anymore, it says wrong password."
+83,2026-11-14,4,"Five stars, works perfectly."
+84,2026-11-10,3,Loading takes forever on my phone.
+85,2026-11-15,4,The design looks nice but the button is too small.
+86,2026-11-15,2,"Way too many ads, one after every click."
+87,2026-11-15,2,Customer service never answered my email.
+88,2026-11-15,1,"Bad update, the app crashed three times today."
+89,2026-11-10,5,I read the news on it every morning.
+90,2026-11-13,3,The new layout is confusing.
+91,2026-11-14,1,"The save button is broken, nothing happens."
+92,2026-11-11,1,"So many bugs after the update, please fix."
+93,2026-11-11,2,"I cannot log in anymore, it says wrong password."
+94,2026-11-10,4,The download was quick and setup was easy.
+95,2026-11-15,2,Password reset email never arrives.
+96,2026-11-10,4,"Not expensive at all, great value for money."
+97,2026-11-12,4,"Great app, does exactly what I need."
+98,2026-11-11,4,The design looks nice but the button is too small.
+99,2026-11-15,4,"Five stars, works perfectly."
+100,2026-11-14,1,Sign in with Google does not work.
+101,2026-11-22,5,"Great app, does exactly what I need."
+102,2026-11-19,2,Got an error message and lost all my notes.
+103,2026-11-22,3,The new layout is confusing.
+104,2026-11-17,2,Got an error message and lost all my notes.
+105,2026-11-16,2,Got an error message and lost all my notes.
+106,2026-11-19,3,Too expensive for what it does.
+107,2026-11-18,1,"The save button is broken, nothing happens."
+108,2026-11-18,4,"Love this app, use it every day!"
+109,2026-11-18,3,Nice app but the monthly cost is too high.
+110,2026-11-20,2,Nice app but the monthly cost is too high.
+111,2026-11-17,5,"Love this app, use it every day!"
+112,2026-11-16,2,A popup ad covers the whole screen.
+113,2026-11-21,3,It drains my battery in two hours.
+114,2026-11-16,3,I paid to remove ads and still see them.
+115,2026-11-19,2,"So many bugs after the update, please fix."
+116,2026-11-20,2,"Way too many ads, one after every click."
+117,2026-11-19,1,My account was deleted for no reason.
+118,2026-11-22,1,My account was deleted for no reason.
+119,2026-11-19,2,"So many bugs after the update, please fix."
+120,2026-11-21,2,Scrolling is laggy and the app feels slow.
+121,2026-11-22,1,The help desk just sends the same copy-paste answer.
+122,2026-11-20,2,The app crashes every time I open the camera.
+123,2026-11-22,3,The design looks nice but the button is too small.
+124,2026-11-22,1,Since the last update it keeps freezing on the home screen.
+125,2026-11-17,2,"The save button is broken, nothing happens."
+126,2026-11-16,5,"Simple and useful, highly recommend."
+127,2026-11-20,4,The download was quick and setup was easy.
+128,2026-11-19,3,"Way too many ads, one after every click."
+129,2026-11-21,1,The app crashes every time I open the camera.
+130,2026-11-17,1,The help desk just sends the same copy-paste answer.
+131,2026-11-16,2,"Very slow to open, takes almost a minute."
+132,2026-11-22,3,It drains my battery in two hours.
+133,2026-11-19,5,"Not expensive at all, great value for money."
+134,2026-11-19,4,The download was quick and setup was easy.
+135,2026-11-19,5,"Not expensive at all, great value for money."
+136,2026-11-21,2,"The save button is broken, nothing happens."
+137,2026-11-17,3,Scrolling is laggy and the app feels slow.
+138,2026-11-18,1,Got an error message and lost all my notes.
+139,2026-11-20,1,Since the last update it keeps freezing on the home screen.
+140,2026-11-19,1,"Bad update, the app crashed three times today."
+141,2026-11-19,2,Got an error message and lost all my notes.
+142,2026-11-19,2,The subscription price doubled this month.
+143,2026-11-19,3,The design looks nice but the button is too small.
+144,2026-11-16,2,My account was deleted for no reason.
+145,2026-11-22,2,The help desk just sends the same copy-paste answer.
+146,2026-11-20,1,"Wrote to support three times, no reply."
+147,2026-11-19,2,The app crashes every time I open the camera.
+148,2026-11-21,2,Password reset email never arrives.
+149,2026-11-17,3,Settings are hard to find in the menu.
+150,2026-11-21,2,Too expensive for what it does.
+151,2026-11-24,2,Customer service never answered my email.
+152,2026-11-26,2,Since the last update it keeps freezing on the home screen.
+153,2026-11-25,3,They charged me twice and I want a refund.
+154,2026-11-29,4,Settings are hard to find in the menu.
+155,2026-11-26,4,The download was quick and setup was easy.
+156,2026-11-25,2,I paid to remove ads and still see them.
+157,2026-11-28,1,The app crashes every time I open the camera.
+158,2026-11-24,4,I read the news on it every morning.
+159,2026-11-24,2,"Bad update, the app crashed three times today."
+160,2026-11-24,2,"Bad update, the app crashed three times today."
+161,2026-11-25,1,"I cannot log in anymore, it says wrong password."
+162,2026-11-24,4,The new layout is confusing.
+163,2026-11-25,2,"Wrote to support three times, no reply."
+164,2026-11-24,4,I read the news on it every morning.
+165,2026-11-28,1,Customer service never answered my email.
+166,2026-11-25,1,The help desk just sends the same copy-paste answer.
+167,2026-11-25,5,The download was quick and setup was easy.
+168,2026-11-27,3,Too expensive for what it does.
+169,2026-11-29,5,"Love this app, use it every day!"
+170,2026-11-25,3,The subscription price doubled this month.
+171,2026-11-28,3,Nice app but the monthly cost is too high.
+172,2026-11-29,3,They charged me twice and I want a refund.
+173,2026-11-29,4,"Five stars, works perfectly."
+174,2026-11-24,5,I read the news on it every morning.
+175,2026-11-26,2,Customer service never answered my email.
+176,2026-11-25,2,A popup ad covers the whole screen.
+177,2026-11-29,2,My account was deleted for no reason.
+178,2026-11-27,3,"Very slow to open, takes almost a minute."
+179,2026-11-24,2,"Way too many ads, one after every click."
+180,2026-11-26,1,The help desk just sends the same copy-paste answer.
+181,2026-11-28,3,Nice app but the monthly cost is too high.
+182,2026-11-23,5,"Great app, does exactly what I need."
+183,2026-11-24,3,They charged me twice and I want a refund.
+184,2026-11-27,3,Nice app but the monthly cost is too high.
+185,2026-11-27,5,"Five stars, works perfectly."
+186,2026-11-25,2,"Wrote to support three times, no reply."
+187,2026-11-28,1,My account was deleted for no reason.
+188,2026-11-27,1,Since the last update it keeps freezing on the home screen.
+189,2026-11-26,2,My account was deleted for no reason.
+190,2026-11-29,4,"Five stars, works perfectly."
+191,2026-11-24,2,"I cannot log in anymore, it says wrong password."
+192,2026-11-24,2,Customer service never answered my email.
+193,2026-11-27,5,The download was quick and setup was easy.
+194,2026-11-28,5,"Love this app, use it every day!"
+195,2026-11-27,5,"Simple and useful, highly recommend."
+196,2026-11-25,2,"Way too many ads, one after every click."
+197,2026-11-29,2,"I cannot log in anymore, it says wrong password."
+198,2026-11-26,5,"Love this app, use it every day!"
+199,2026-11-28,1,Customer service never answered my email.
+200,2026-11-27,2,The app crashes every time I open the camera.
